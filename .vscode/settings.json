@@ -1,0 +1,4 @@
+{
+    "python.envFile": "${workspaceFolder}/.env",
+    "python.defaultInterpreterPath": "d:/Program Files/QGIS 3.38.3/apps/Python312/python.exe"
+}
